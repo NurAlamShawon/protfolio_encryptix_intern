@@ -1,0 +1,246 @@
+.heading {
+    background-color: #205372;
+    height: 50px;
+    width: 100%;
+    padding: 2px;
+    border: #205372 solid 2px;
+}
+
+
+.maindiv {
+    padding-left: 10px;
+    height: 450px;
+    max-width: 100%;
+}
+
+.leftdiv {
+    padding-top: 10%;
+    float: left;
+}
+
+.name {
+    color: black;
+    font-size: 50px;
+    margin-left: 14%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.web {
+    color: rgb(89, 87, 87);
+    font-size: 45px;
+    margin-left: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.description {
+    color: rgb(67, 67, 67);
+    font-size: 16px;
+    margin-left: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.description1 {
+    color: rgb(81, 84, 85);
+    font-size: 16px;
+    margin-left: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.rightdiv {
+
+    float: right;
+}
+
+.picture {
+    height: auto;
+    max-width: 270px;
+    margin-right: 60px;
+
+}
+
+.cvbutton {
+    border-radius: 20px;
+    margin-top: 5%;
+    float: left;
+    margin-left: 8%;
+    border: black solid 2px;
+    padding-left: 24px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    padding-right: 24px;
+}
+
+
+.cvlink {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.cvbutton:hover {
+    text-align: center;
+    background-color: #308fbb;
+    font-size: 19px;
+}
+
+
+.footer {
+    text-align: center;
+    box-shadow: 10px 10px 5px lightgrey;
+
+
+
+}
+
+.area {
+    background-image: url(area.png);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 1000;
+    padding-left: 10%;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.num1 {
+    padding-left: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.num2 {
+    margin-left: 14%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.num3 {
+    padding-left: 9%;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.web {
+    padding-left: 0%;
+    height: auto;
+    max-width: 170px;
+}
+
+.mobile {
+    margin-left: 16%;
+    height: auto;
+    max-width: 240px;
+}
+
+.cp {
+    padding-left: 9%;
+    height: auto;
+    max-width: 200px;
+}
+
+.project {
+    background-image: url(project.png);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-weight: 1000;
+    padding-left: 10%;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.table {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+
+}
+
+.tr {
+    box-shadow: 10px 10px 5px lightgrey;
+
+}
+
+.style {
+    padding-left: 60px;
+}
+
+.web_example {
+    max-height: 250px;
+    max-width: auto;
+    box-shadow: 6px rgb(58, 58, 58);
+}
+
+.web_example1 {
+    max-height: 250px;
+    max-width: auto;
+}
+
+.lostandfound1 {
+    max-height: 250px;
+    max-width: auto;
+}
+
+.lostandfound2 {
+    max-height: 250px;
+    max-width: auto;
+}
+
+.calculator {
+    max-height: 250px;
+    max-width: auto;
+}
+
+.cp_example {
+    max-height: 250px;
+    max-width: auto;
+}
+
+.github {
+    max-width: 15px;
+    max-height: 15px;
+}
+
+.linkedin {
+    max-width: 18px;
+    max-height: 25px;
+}
+
+.ending {
+    text-align: center;
+    background-color: rgb(139, 230, 230);
+}
+
+.email {
+    float: left;
+    padding-left: 120px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.linkedinlink {
+    float: right;
+    padding-right: 120px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.number {
+    padding-left: 180px;
+    text-decoration: none;
+    color: black;
+
+
+}
+
+.git {
+    padding-left: 250px;
+    text-decoration: none;
+    color: black;
+
+}
