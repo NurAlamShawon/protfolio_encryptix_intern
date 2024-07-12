@@ -98,7 +98,7 @@
     background-size: cover;
     text-align: center;
     box-shadow: 10px 10px 5px lightgrey;
-    height:auto;
+    height: auto;
     max-width: 100%;
 
 
@@ -153,9 +153,11 @@
 }
 
 .footer2 {
-    
-    height:auto;
+    display: inline-block;
+    height: auto;
     max-width: 100%;
+    background-image: url(bg1.png);
+    background-size: cover;
 }
 
 .project {
@@ -234,7 +236,7 @@
 
 
 .touch {
-margin-top: 20px;
+    
     height: 400px;
     width: 100%;
     background-image: url(bg2.png);
@@ -300,8 +302,10 @@ margin-top: 20px;
 
 
 .ending {
+   
+    display: inline-block;
     width: 100%;
-    height: 200px;
+    height: 220px;
     text-align: center;
     background-image: url(bg3.png);
     background-size: cover;
